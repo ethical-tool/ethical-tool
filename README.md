@@ -1,16 +1,29 @@
-## Hi there 👋
+![Kira Banner](./logo.png)
 
-<!--
-**ethical-tool/ethical-tool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Kira 👋
 
-Here are some ideas to get you started:
+### 🛡️ Ethical Hacker | Security Researcher | Bug Bounty Hunter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I am passionate about cybersecurity, finding vulnerabilities, and making the digital world a safer place.
+
+---
+
+### 🔍 About Me
+- 🔭 **Currently working on:** Web Application Security & Penetration Testing
+- 🌱 **Learning:** Reverse Engineering, Malware Analysis, & Cloud Security
+- 🎯 **Goal:** Contributing to open-source security tools and participating in CTFs
+- ⚡ **Fun fact:** I love breaking things (legally) to make them stronger!
+
+---
+
+### 🛠️ Skills & Tools
+- **Languages:** Python, Bash, JavaScript, C++, SQL
+- **Security Tools:** Burp Suite, Nmap, Metasploit, Wireshark, OWASP ZAP, Gobuster
+- **Operating Systems:** Kali Linux, Parrot OS, Ubuntu, Windows
+
+---
+
+### 📫 Connect With Me
+- 🐙 **GitHub:** [ethical tool](https://github.com/ethical-tool)
+- 📧 **Email:** kiracyberlast@gmail.com
+- 🅾 **Instagram:** [ethical tool](https://www.instagram.com/kira_cyber_last)
