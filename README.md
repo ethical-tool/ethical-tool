@@ -1,6 +1,6 @@
 ![Kira Banner](./logo.png)
 
-# Hi there, I'm Kira 👋
+# Hi there, I'm Ethical 👋
 
 ### 🛡️ Ethical Hacker | Security Researcher | Bug Bounty Hunter
 
