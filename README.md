@@ -23,7 +23,25 @@ Welcome to my GitHub profile! I am passionate about cybersecurity, finding vulne
 
 ---
 
+
+### 🛡️ Core Principles
+* **Responsible Disclosure:** Committed to reporting vulnerabilities ethically to help patch and secure systems.
+* **Defensive Mindset:** Leveraging offensive security knowledge solely to build stronger defenses and improve overall cybersecurity.
+* **Strict Authorization:** Unauthorized access or malicious exploitation is never the objective—**understanding and strengthening security is.**
+
+---
+
 ### 📫 Connect With Me
 - 🐙 **GitHub:** [ethical tool](https://github.com/ethical-tool)
 - 📧 **Email:** kiracyberlast@gmail.com
 - 🅾 **Instagram:** [ethical tool](https://www.instagram.com/kira_cyber_last)
+
+---
+<div align="center">
+  
+## ⚖️ Ethical Commitment & Disclaimer
+
+> **⚠️ Educational & Authorized Use Only**
+> All security research, tools, and demonstrations shared in this repository are strictly intended for **educational purposes** and **authorized security testing**.
+
+*By using or referencing the materials in this repository, you agree to comply with all applicable laws and use this knowledge responsibly.*
