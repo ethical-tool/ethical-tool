@@ -43,5 +43,3 @@ Welcome to my GitHub profile! I am passionate about cybersecurity, finding vulne
 
 > **⚠️ Educational & Authorized Use Only**
 > All security research, tools, and demonstrations shared in this repository are strictly intended for **educational purposes** and **authorized security testing**.
-
-*By using or referencing the materials in this repository, you agree to comply with all applicable laws and use this knowledge responsibly.*
