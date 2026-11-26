@@ -9,17 +9,19 @@ Welcome to my GitHub profile! I am passionate about cybersecurity, finding vulne
 ---
 
 ### 🔍 About Me
-- 🔭 **Currently working on:** Web Application Security & Penetration Testing
-- 🌱 **Learning:** Reverse Engineering, Malware Analysis, & Cloud Security
-- 🎯 **Goal:** Contributing to open-source security tools and participating in CTFs
-- ⚡ **Fun fact:** I love breaking things (legally) to make them stronger!
+- 🔭 **Specialization:** Web Application Security & Penetration Testing
+- 🛡️ **Expertise:** Red Team Operations, Vulnerability Assessment & Security Research
+- 🎯 **Focus:** Open-Source Security Tools, CTFs & Advanced Security Research
+- ⚡ **Mindset:** Think like an attacker. Build stronger defenses.
 
 ---
 
-### 🛠️ Skills & Tools
-- **Languages:** Python, Bash, JavaScript, C++, SQL
-- **Security Tools:** Burp Suite, Nmap, Metasploit, Wireshark, OWASP ZAP, Gobuster
-- **Operating Systems:** Kali Linux, Parrot OS, Ubuntu, Windows
+### 🛡️ Security & Pentesting Tools
+- **Web & AppSec:** Burp Suite Pro, OWASP ZAP, Gobuster, FFUF, SQLmap, Nikto, Dirsearch
+- **Network & Recon:** Nmap, Wireshark, Netcat, Responder, Bettercap, Aircrack-ng
+- **Exploitation & AD:** Metasploit, BloodHound, Mimikatz, Impacket, CrackMapExec, Hydra, Hashcat, John the Ripper
+- **Vulnerability & SIEM:** Nessus, Splunk, Wazuh, Ghidra, Autopsy
+
 
 ---
 
@@ -43,3 +45,5 @@ Welcome to my GitHub profile! I am passionate about cybersecurity, finding vulne
 
 > **⚠️ Educational & Authorized Use Only**
 > All security research, tools, and demonstrations shared in this repository are strictly intended for **educational purposes** and **authorized security testing**.
+
+
